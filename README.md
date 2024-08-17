@@ -22,24 +22,6 @@
 ![pic1](./src/images/ssone.png)
 ![pic2](./src/images/webres.png)
 
-## Time Taken
-
----
-
-- 2 Days taken for this to make
-
----
-
-## Live Link
-
-- [Link](https://expense-tracker-react-one.vercel.app/)
-
----
-
-## Tech used
-
----
-
 - ReactJs
 - HTML& TailwindCSS + TailwindCSS Components
 - React-icons
